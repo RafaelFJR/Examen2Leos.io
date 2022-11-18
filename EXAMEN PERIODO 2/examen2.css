@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.encabezado_RGL img{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+.contenedor_RGL{
+    background-color: blueviolet;
+}
+.párrafo_RGL{
+    width: 60%;
+    padding: 10px;
+    background-color: rgb(167, 135, 92);
+    margin: auto;
+}
+p{
+    color: aliceblue;
+    font-size: 2em;
+    padding: 10px;
+    background-color: blue;
+}
+.párrafo_RGL img{
+height: auto;
+width: 100%;
+object-fit: cover;
+}
+h2{
+    color: rgb(44, 125, 125);
+    background-color: blanchedalmond;
+    font-size: 2em;
+    padding: auto;
+}
+li{
+    color: beige;
+    font-size: 2em;
+    background-color: blue;
+    padding: 2px;
+}
+
